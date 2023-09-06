@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Luca",
+        "planeta": "Tierra"
+    },
+    {
+        "nombre": "Jose",
+        "planeta": "Marte"
+    },
+    {
+        "nombre": "Pikachu",
+        "planeta": "Jupiter"
+    },
+    {
+        "nombre": "Pablo",
+        "planeta": "Marte"
+    },
+    {
+        "nombre": "Lucas",
+        "planeta": "Jupiter"
+    },
+    {
+        "nombre": "Hernan",
+        "planeta": "Jupiter"
+    }
+]
